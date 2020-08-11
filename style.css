@@ -1,0 +1,15 @@
+#main {
+    display: flex;
+    flex-flow: wrap;
+}
+.display {
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    box-shadow: 2px 2px;
+}
+
+.more {
+    position: relative;
+    top: 10px;
+}
